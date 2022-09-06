@@ -1,6 +1,8 @@
 from materiaal import Materiaal
 
+
 # Niet goed
+
 
 class Equipment:
 
